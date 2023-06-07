@@ -1,0 +1,63 @@
+body { 
+    font-family: 'Roboto', sans-serif;
+}
+
+h3 {
+    font-size: 45px;;
+}
+
+.menu-izquierda {
+    width: 20%;
+}
+
+.menu-derecha {
+    width: 80%;
+}
+
+.left-sections-big {
+    min-height: calc(100vh - 85vh);
+    border-top: 2px solid #e6e6e6;
+}
+
+.left-sections {
+    min-height: calc(100vh - 100vh);
+    border-top: 2px solid #e6e6e6;
+}
+
+.box1 {
+    height: 9.1vh;
+}
+
+.botonn {
+    height: 15vh;
+}
+
+small {
+    font-size: 12px;
+}
+
+.gris {
+    color: #828485;
+}
+
+span {
+    font-size: 16px;
+}
+
+.nochat {
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.boton {
+    background-color: #A491D2;
+    width: 180px;
+    height: 45px;
+    color: white;
+    text-shadow: 1px 1px #0000001f;
+    border: none;
+}
+
+.boton:hover {
+    background-color: #CDC3E6;
+}
